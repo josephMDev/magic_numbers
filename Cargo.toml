@@ -1,0 +1,7 @@
+[package]
+name = "magic_numbers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+magic-num = { git = "https://github.com/cfilipescu/magic-num.git", branch = "main"}
